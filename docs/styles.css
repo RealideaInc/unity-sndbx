@@ -1,0 +1,33 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+    line-height: 1.6;
+}
+
+h1 {
+    color: #003366;
+    text-align: center;
+}
+
+h2 {
+    color: #006699;
+}
+
+ul {
+    list-style-type: none; /* リストマーカーを無くす */
+    padding: 0;
+}
+
+li {
+    margin-bottom: 10px;
+}
+
+a {
+    text-decoration: none; /* 下線を消す */
+    color: #0645ad;
+}
+
+a:hover {
+    color: #0b0080;
+}
